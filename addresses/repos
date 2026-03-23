@@ -1,1 +1,6 @@
-
+[
+{"name":"JMComic","address":"https://github.com/hect0x7/JMComic-APK","view":"禁漫天堂"},
+{"name":"EhViewer[G]","address":"https://github.com/xiaojieonly/Ehviewer_CN_SXJ","view":"绿E"},
+{"name":"EhViewer[C]","address":"https://github.com/FooIbar/EhViewer","view":"彩E"},
+{"name":"EhViewer[W]","address":"https://github.com/EhViewer-NekoInverter/EhViewer","view":"白E"}
+]
